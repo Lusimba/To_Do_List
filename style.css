@@ -1,0 +1,10 @@
+body{
+	background-color: rgb(218, 199, 182);
+}
+
+#row2{
+	margin-top: 10%;
+}
+#todos{
+	background: linear-gradient(to bottom, rgba(49, 176, 213, 05), rgba(35, 82, 124, 05));
+}
